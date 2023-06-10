@@ -1,0 +1,11 @@
+/usr/lib/x86_64-linux-gnu/gazebo-11/plugins/libArduCopterIRLockPlugin.so
+/usr/lib/x86_64-linux-gnu/gazebo-11/plugins/libArduPilotPlugin.so
+/usr/share/gazebo-11/models/../models/iris_with_standoffs/model.sdf
+/usr/share/gazebo-11/models/../models/iris_with_standoffs/model.config
+/usr/share/gazebo-11/models/../models/iris_with_standoffs/meshes/iris_prop_cw.dae
+/usr/share/gazebo-11/models/../models/iris_with_standoffs/meshes/iris_prop_ccw.dae
+/usr/share/gazebo-11/models/../models/iris_with_standoffs/meshes/iris.dae
+/usr/share/gazebo-11/models/../models/iris_with_ardupilot/model.sdf
+/usr/share/gazebo-11/models/../models/iris_with_ardupilot/model.config
+/usr/share/gazebo-11/models/../worlds/iris_arducopter_cmac.world
+/usr/share/gazebo-11/models/../worlds/iris_arducopter_runway.world
